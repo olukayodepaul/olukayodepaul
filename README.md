@@ -1,5 +1,5 @@
 ### 👋 Hi there! 
-I'm Paul Aigbokhai Olukayode, a passionate technologist hailing from Lagos, Nigeria. With a background in database engineering in the banking sector and experience as a Sales Technology Strategist in a distribution company, I bring a unique blend of technical expertise and strategic planning skills to the table. My journey in technology has led me to specialize in Artificial Intelligence, where I'm dedicated to exploring the frontiers of innovation through coding and strategic thinking. Excited to collaborate and contribute to transformative projects that merge technology with strategic vision!  🚀
+I'm Paul Aigbokhai Olukayode, a tech enthusiast from Lagos, Nigeria. I've worked in banking as a database engineer and as a Sales Technology Strategist in a distribution company. Now, I'm focusing on my startup, which spans AI, software, hardware, media, space, and robotics. I'm passionate about merging technology with strategy to create impactful change. Let's collaborate and shape the future together!   🚀
 
 
 **olukayodepaul/olukayodepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
