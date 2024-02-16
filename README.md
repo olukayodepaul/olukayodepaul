@@ -1,5 +1,5 @@
 ### 👋 Hi there! 
-I'm Paul Aigbokhai Olukayode, a passionate technologist hailing from Lagos, Nigeria. Armed with a Bachelor's degree in Computer Science and a Master's degree in the same field, specializing in Artificial Intelligence, I'm dedicated to exploring the frontiers of technology and leveraging AI to drive innovation. Excited to collaborate and contribute to transformative projects!  🚀
+I'm Paul Aigbokhai Olukayode, a passionate technologist hailing from Lagos, Nigeria. With a background in database engineering in the banking sector and experience as a Sales Technology Strategist in a distribution company, I bring a unique blend of technical expertise and strategic planning skills to the table. My journey in technology has led me to specialize in Artificial Intelligence, where I'm dedicated to exploring the frontiers of innovation through coding and strategic thinking. Excited to collaborate and contribute to transformative projects that merge technology with strategic vision!  🚀
 
 
 **olukayodepaul/olukayodepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
