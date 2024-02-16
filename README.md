@@ -1,4 +1,4 @@
-![Image Description](https://dartspatial.com.ng/log.png)
+![Dart Spatial Nigeria Limited](https://dartspatial.com.ng/log.png)
 
 ### 👋 Hi there! 
 ***
@@ -7,6 +7,4 @@ I'm Paul Aigbokhai Olukayode, a passionate technologist hailing from Lagos, Nige
 My passion for technology has led me to specialize in Artificial Intelligence, where I'm dedicated to exploring the frontiers of innovation through coding and strategic thinking. Currently, I'm building a startup company that focuses on AI, software, hardware, media, space, and robotics. This venture embodies my vision of merging cutting-edge technology with strategic foresight to drive impactful change and revolutionize various sectors. I'm excited to collaborate and contribute to transformative projects that redefine the possibilities of tomorrow!🚀
 
 [Dart Spatial](http://dartspatial.com.ng/)
-
-![Android Development](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)
 
