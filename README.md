@@ -1,6 +1,6 @@
-![Dart Spatial Nigeria Limited](https://dartspatial.com.ng/log.png)
-
-### 👋 Hi there! 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=👋 Hi there! ;" />
+</h1>
 ***
 I'm Paul Aigbokhai Olukayode, a passionate technologist hailing from Lagos, Nigeria. With a Bachelor's degree in Computer Science and a Master's degree in the same field, specializing in Artificial Intelligence, I bring a unique blend of academic prowess and practical experience to the table. My journey began in the banking sector, where I specialized in database engineering, and continued as a Sales Technology Strategist in a distribution company. This diverse background has equipped me with a range of technical expertise and strategic planning skills.
 
