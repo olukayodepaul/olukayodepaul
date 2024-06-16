@@ -29,8 +29,3 @@ My passion for technology has led me to specialize in Artificial Intelligence, w
 <br/>
 <hr/>
 
-
-
-
-[Dart Spatial](http://dartspatial.com.ng/)
-
