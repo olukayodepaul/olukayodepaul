@@ -22,7 +22,7 @@ My passion for technology has led me to specialize in Artificial Intelligence, w
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,c,kotlin,rust,aws,php,fast" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git,c,kotlin,rust,aws,php,fastapi" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,java,mysql,flask" /><br>
 </div>
 
